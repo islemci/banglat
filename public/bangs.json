@@ -3,10 +3,6 @@
     "name": "Tekir",
     "url": "https://tekir.co/search?q={search}"
   },
-  "!d": {
-    "name": "DuckDuckGo",
-    "url": "https://duckduckgo.com/?q={search}"
-  },
   "!g": {
     "name": "Google",
     "url": "https://www.google.com/search?q={search}"

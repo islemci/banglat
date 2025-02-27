@@ -90,7 +90,7 @@ export default function Home() {
   return (
     <div className="min-h-screen flex items-center justify-center">
       <div className="flex flex-col items-center justify-center max-w-lg mx-auto px-4">
-        <h1 className="text-4xl font-bold mb-4">!banglat</h1>
+        <h1 className="text-4xl font-bold mb-4">banglat</h1>
         <p className="mb-6 text-center">
           Bangs that literally work on your browser. Doesn't send your request to the server to parse it, instead fully works on your browser.
         </p>
