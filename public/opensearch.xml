@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>banglat</ShortName>
+    <Description>Search with bangs, faster than all other services.</Description>
+    <Tags>redirect bang bangs !</Tags>
+    <Contact>mustafa@tekir.co</Contact>
+    <Url type="text/html" 
+             template="https://bang.lat/?q={searchTerms}"/>
+    <Url type="application/opensearchdescription+xml"
+             rel="self"
+             template="https://bang.lat/opensearch.xml"/>
+    <Image height="16" width="16" type="image/x-icon">https://bang.lat/favicon.ico</Image>
+    <InputEncoding>UTF-8</InputEncoding>
+    <OutputEncoding>UTF-8</OutputEncoding>
+    <Language>en-us</Language>
+    <SearchForm>https://bang.lat/</SearchForm>
+</OpenSearchDescription>
