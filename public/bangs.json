@@ -1,62 +1,77 @@
 {
   "!tekir": {
     "name": "Tekir",
-    "url": "https://tekir.co/search?q={search}"
+    "url": "https://tekir.co/search?q={search}",
+    "main": "https://tekir.co/"
   },
   "!g": {
     "name": "Google",
-    "url": "https://www.google.com/search?q={search}"
+    "url": "https://www.google.com/search?q={search}",
+    "main": "https://www.google.com/"
   },
   "!yt": {
     "name": "YouTube",
-    "url": "https://www.youtube.com/results?search_query={search}"
+    "url": "https://www.youtube.com/results?search_query={search}",
+    "main": "https://www.youtube.com/"
   },
   "!gh": {
     "name": "GitHub",
-    "url": "https://github.com/search?q={search}"
+    "url": "https://github.com/search?q={search}",
+    "main": "https://github.com/"
   },
   "!w": {
     "name": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Special:Search?search={search}"
+    "url": "https://en.wikipedia.org/wiki/Special:Search?search={search}",
+    "main": "https://en.wikipedia.org/"
   },
   "!a": {
     "name": "Amazon",
-    "url": "https://www.amazon.com/s?k={search}"
+    "url": "https://www.amazon.com/s?k={search}",
+    "main": "https://www.amazon.com/"
   },
   "!m": {
     "name": "Maps",
-    "url": "https://www.google.com/maps/search/{search}"
+    "url": "https://www.google.com/maps/search/{search}",
+    "main": "https://www.google.com/maps/"
   },
   "!r": {
     "name": "Reddit",
-    "url": "https://www.reddit.com/search/?q={search}"
+    "url": "https://www.reddit.com/search/?q={search}",
+    "main": "https://www.reddit.com/"
   },
   "!tw": {
     "name": "Twitter",
-    "url": "https://twitter.com/search?q={search}"
+    "url": "https://twitter.com/search?q={search}",
+    "main": "https://twitter.com/"
   },
   "!ddg": {
     "name": "DuckDuckGo",
-    "url": "https://duckduckgo.com/?q={search}"
+    "url": "https://duckduckgo.com/?q={search}",
+    "main": "https://duckduckgo.com/"
   },
   "!so": {
     "name": "Stack Overflow",
-    "url": "https://stackoverflow.com/search?q={search}"
+    "url": "https://stackoverflow.com/search?q={search}",
+    "main": "https://stackoverflow.com/"
   },
   "!npm": {
     "name": "npm",
-    "url": "https://www.npmjs.com/search?q={search}"
+    "url": "https://www.npmjs.com/search?q={search}",
+    "main": "https://www.npmjs.com/"
   },
   "!mdn": {
     "name": "MDN",
-    "url": "https://developer.mozilla.org/en-US/search?q={search}"
+    "url": "https://developer.mozilla.org/en-US/search?q={search}",
+    "main": "https://developer.mozilla.org/"
   },
   "!docker": {
     "name": "Docker Hub",
-    "url": "https://hub.docker.com/search?q={search}"
+    "url": "https://hub.docker.com/search?q={search}",
+    "main": "https://hub.docker.com/"
   },
   "!btt": {
     "name": "Bilinçli Teknloji Tüketicileri",
-    "url": "https://btt.community/search?q={search}"
+    "url": "https://btt.community/search?q={search}",
+    "main": "https://btt.community/"
   }
 }
