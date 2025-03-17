@@ -1,4 +1,9 @@
 {
+  "!chat": {
+    "name": "Tekir Chat",
+    "url": "https://tekir.co/chat?q={search}",
+    "main": "https://tekir.co/chat"
+  },
   "!tekir": {
     "name": "Tekir",
     "url": "https://tekir.co/search?q={search}",
